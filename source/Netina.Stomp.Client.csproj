@@ -7,7 +7,8 @@
     <PackageProjectUrl>https://github.com/Netina/Netina.Stomp.Client</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Netina/Netina.Stomp.Client</RepositoryUrl>
     <PackageTags>stomp;websocket</PackageTags>
-    <Version>2.0.5.0</Version>
+    <BuildNumber>0</BuildNumber>
+    <Version>2.0.5.$(BuildNumber)</Version>
     <PackageIcon>NetinaLogo.jpg</PackageIcon>
     <Description>
       .NET nuget package for connecting STOMP server in async way over WebSocket.
